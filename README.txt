@@ -1,9 +1,9 @@
 SystemVerilog Verification
 UVM
 
-===========
-Tools Setup 
-===========
+=====================
+UVM Environment Setup 
+=====================
 VCS 
 VCS_HOME
 VERDI
